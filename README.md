@@ -119,17 +119,19 @@ You can add new Tests by adding test cases in this file.
 
 ## Deployment
 
-To deploy this on live system go to aws.amazon.com and follow the steps to instantiate EC2 instance.
+To deploy this on live system go to aws.amazon.com and follow the steps to instantiate EC2 instance for each Backend, Frontend and Kafka Backend with Auto-Scaling and Load Balancer.
 
 ## Built With
 
+* [NodeJS](https://nodejs.org/en/docs/) - Run time open source development platform
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programing Language used
 * [React](https://reactjs.org/docs/getting-started.html) - The library used
-* [NodeJS](https://nodejs.org/en/docs/) - run time open source development platform
 * [Redux](https://redux.js.org/introduction/getting-started) - The library used
+* [Apache Kafka]() - A distributed streaming platform and Message Queues 
 * [Passport-JWT Token](http://www.passportjs.org/docs/) - Authentication Strategy used
-* [MongoDB](https://docs.mongodb.com/) - Database used
+* [MongoDB](https://docs.mongodb.com/) - NoSQL Database used
 * [Redis](https://redis.io/documentation) - Used for SQL Caching
-* [MySQL](https://dev.mysql.com/doc/) - Database used
+* [MySQL](https://dev.mysql.com/doc/) - SQL Database used
 
 ## Authors
 
