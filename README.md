@@ -127,7 +127,7 @@ To deploy this on live system go to aws.amazon.com and follow the steps to insta
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programing Language used
 * [React](https://reactjs.org/docs/getting-started.html) - The library used
 * [Redux](https://redux.js.org/introduction/getting-started) - The library used
-* [Apache Kafka]() - A distributed streaming platform and Message Queues 
+* [Apache Kafka](https://kafka.apache.org/documentation/) - A distributed streaming platform and Message Queues 
 * [Passport-JWT Token](http://www.passportjs.org/docs/) - Authentication Strategy used
 * [MongoDB](https://docs.mongodb.com/) - NoSQL Database used
 * [Redis](https://redis.io/documentation) - Used for SQL Caching
